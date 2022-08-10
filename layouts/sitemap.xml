@@ -8,6 +8,7 @@
 		{{- else if in .Permalink "pnews"  -}}
 		{{- else if in .Permalink "pnavigation"  -}}
 		{{- else if in .Permalink "ads"  -}}
+		{{- else if in .Permalink "adtype"  -}}
 		{{- else -}}
 			<url>
 				<loc>
