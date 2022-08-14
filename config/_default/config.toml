@@ -577,7 +577,7 @@ enableRobotsTXT = true
 
 # 网站地图配置
 [sitemap]
-  changefreq = "daily"
+  changefreq = "weekly"
   filename = "sitemap.xml"
   priority = 0.5
 
